@@ -5,7 +5,7 @@
 - I’m currently working on Nursing AI, a platform to auxiliate the Nursing School at UWEC with their simulation to train nursing students. We are building a with a third person avatar with real-time questions and feedback imitating a real scenario where a family member is present during the interaction between nurse and patient.
 - I’m currently learning DevOps practices such as Docker, Kubernetes, AWS and system design through my personal project "Ordyn Life", a productivity and consistency app for developers.
 
-<h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>🚀 &nbsp;Some Tools I Have Used/Learned</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
