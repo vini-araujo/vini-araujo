@@ -2,7 +2,7 @@
 
 - I'm a Senior CS student @ University of Wisconson - Eau Claire, with an Information Systems certificate.
 - I am passionate about building, it can be anything. Turning ideas into product and solutions is why I chose this career path.
-- I’m currently working on Nursing AI, a platform to auxiliate the Nursing School simulation with a third person with real-time questions and feedback at UWEC.
+- I’m currently working on Nursing AI, a platform to auxiliate the Nursing School at UWEC with their simulation to train nursing students. We are building a with a third person avatar with real-time questions and feedback imitating a real scenario where a family member is present during the interaction between nurse and patient.
 - I’m currently learning DevOps practices such as Docker, Kubernetes, AWS and system design through my personal project "Ordyn Life", a productivity and consistency app for developers.
 
 <h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
