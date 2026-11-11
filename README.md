@@ -4,6 +4,7 @@
 - I am passionate about building, it can be anything. Turning ideas into product and solutions is why I chose this career path.
 - I’m currently working on Nursing AI, a platform to auxiliate the Nursing School at UWEC with their simulation to train nursing students. We are building a third person avatar with real-time questions and feedback imitating a real scenario where a family member is present during the interaction between nurse and patient.
 - I’m currently learning DevOps practices such as Docker, Kubernetes, AWS and system design through my personal project "Ordyn Life", a productivity and consistency app for developers.
+- We use GitLab for my internship, so unfortunately it doesnt show on my activity here.
 
 <h2>Some Tools I Have Used/Learned</h2>
 
